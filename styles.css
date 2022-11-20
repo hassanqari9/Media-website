@@ -1,0 +1,449 @@
+body{
+    background-color: white;
+}
+#butt{
+    border-radius: 10px 30px 10px;
+}
+#butt:hover{
+    
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    box-shadow: 0px 0px 20px 15px;
+}
+
+.bck{
+    color: black;
+}
+
+.white{
+  background-color:  #BCEAD5;
+  color: black;
+}
+.three{
+    background-color:  #BCEAD5;
+}
+.six{
+    background-color:  #BCEAD5;
+}
+
+.black{
+    background-color: #7D0633;
+}
+.five{
+    background-color:#7D0633;
+}
+
+.one{
+    margin-left: 0;
+    margin-right: 0;
+    
+    position: relative;
+    background-color: white;
+    padding: 0;
+    
+}
+.row0{
+    /* width: 1692px; */
+    
+}
+.navbar{
+    padding-left: 20px;
+    
+}
+.navbar-brand{
+    font-weight: bolder;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.collapse{
+    padding-left: 1350px;
+}
+#fight{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+.bck{
+    z-index: 2;
+    background-color: transparent;
+    position:absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 25px;
+    font-family:sans-serif;
+    
+}
+.bandw{
+    margin: 0;
+}
+.white{
+   
+    
+}
+
+.bw{
+    position: relative;
+}
+
+.black{
+   
+}
+
+.title{
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    margin-bottom: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+
+.heading{
+    
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family:sans-serif;
+    font-size: 30px;
+    
+}
+.text{
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family:sans-serif;
+    font-size: 20px;
+}
+
+.button1{
+    margin-left: 70px;
+    margin-bottom: 300px;
+    background-color: black;
+    color: white;
+    
+}
+
+
+.iphone{
+    width: 400px;
+    height: 500px;
+    margin-top: 200px;
+    margin-bottom: 270px;
+    transition: transform .2s;
+    
+}
+/* .iphonex{
+    width: 395px;
+    height: 560px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    z-index: 2;
+    top: -725px;
+    transition: transform .2s;
+    
+} */
+.wave1{
+   position: absolute;
+   bottom: 0;  
+}
+
+.bw1{
+    background-color: white;
+}
+
+.bw2{
+    background-color: black;
+}
+
+
+.two{
+   position: relative;
+}
+
+.cards{
+  padding-top: 150px;;
+  padding-left: 100px;
+  padding-right: 100px;
+  
+}
+
+.card{
+    margin: 0px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px 30px 10px;
+    
+   
+}
+
+.card:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0px 0px 20px 15px;
+}
+.card-one{
+    /* border-radius: 30px 30px 10px 10px; */
+}   
+.card-two{
+    /* border-radius: 30px 30px 10px 10px; */
+}
+.card-three{
+    /* border-radius: 10px 10px 30px 30px; */
+}
+.card-four{
+    /* border-radius: 10px 10px 30px 30px; */
+}
+
+.button2{
+    margin-left: 0;
+}
+
+.foursquare{
+    margin-bottom: 100px;
+}
+
+.three{
+   
+    color: black;
+    padding: 0;
+    /* background-image: url("images/blackpaper.webp"); */
+    
+    background-size: cover;
+    z-index: 0;
+}
+
+.container_0{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    width: 400px;
+    height: 600px;
+    border-radius: 0px;
+    box-shadow: 0px 0px 20px 15px;
+    font-size: 20px;
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    transition: transform .2s;
+
+}
+.container_1 .container_2 .container_3{
+    padding: 50px;
+    color: black;
+}
+
+
+
+
+.container_1:hover{
+    transform: scale(0.7);
+    z-index: 2;
+}
+.container_2:hover{
+    transform: scale(0.7);
+    z-index: 2;
+}
+.container_3:hover{
+    transform: scale(0.7);
+    z-index: 2;
+}
+    
+
+
+ 
+.button3{
+  margin-bottom: 0;
+  margin-left: 0;
+  
+}
+
+.row1{
+    margin: 0;
+}
+.col1{
+    padding-left: 250px;
+}
+.col2{
+    padding: 150px;
+}
+
+.wave2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    
+}
+.wave3{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    
+    
+}
+
+.four{
+  padding-bottom: 100px;
+  
+}
+
+.company{
+    margin-top: 50px;
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    
+}
+
+.comp{
+    margin: 30px;
+    
+}
+
+.col-auto{
+    margin: 20px;
+
+}
+
+.five{
+    
+    color: white;
+    padding: 0;
+    z-index: 0;
+}
+
+.person{
+    border-radius: 100%;
+    width: 450px;
+    height: 450px;
+    border-style:dashed;
+    border-width: 10px;
+    transition: transform .9s;
+}
+.person:hover{
+    transform: rotate(360deg);
+}
+
+.person2{
+    border-radius: 100%;
+    width: 350px;
+    height: 350px;
+    border-style:dashed;
+    border-width: 10px;
+}
+
+.c{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+hr{
+    border-style:dotted;
+    border-top: 0;
+    border-width: 7px;
+    width: 35%;
+}
+
+.six{
+    padding: 50px;
+    
+}
+
+.card-link{
+    
+    font-size: 20px;
+    color:gray;
+    
+}
+.card-img-links{
+    transition: transform .3s;
+}
+.card-img-links:hover{
+    transform: scale(1.5);
+    transform: rotate(180deg);
+}
+
+.profile2{
+    padding: 150px;
+    padding-bottom: 0;
+}
+
+.fivepointfive{
+   padding: 0;
+}
+
+.wave6{
+    padding: 0;
+}
+
+@media screen and (max-width: 600px) {
+    .container_0{
+     transform: scale(0.7);
+    }
+    .person{
+        width: 300px;
+        height: 300px;
+    }
+    .letter{
+        color: white;
+        font-size: 300px;
+        font-family:sans-serif;
+        z-index: 2;
+        position: absolute;
+        background-color: transparent;
+        left: 35%;
+        top: 45%;
+        z-index: 0;
+    } 
+    .iphone{
+        position: relative;
+        top: -130px;
+        width: 400px;
+        height: 500px;
+        transform: scale(0.8);
+    }
+    /* .iphonex{
+        top: -630px;
+        position: relative;
+        left:-5%;
+        top: -430px;
+        width: 210px;
+        height: 300px;
+        transform: scale(1.2);
+    } */
+    .black{
+        height: 700px;
+    }
+    
+ }
+
+ @media screen and (min-width: 600px) { 
+    
+    .letter{
+        color: white;
+        font-size: 300px;
+        font-family:sans-serif;
+        z-index: 2;
+        position: absolute;
+        background-color: transparent;
+        left: 45.5%;
+        top: 28%;
+        z-index: 0;
+    }
+    
+    .iphone:hover{
+        transform: scale(1.5);
+    }
+}
