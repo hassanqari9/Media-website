@@ -424,12 +424,44 @@ hr{
         transform: scale(1.2);
     } */
     .black{
-        height: 700px;
+        
     }
     #bio{
         padding: 50px;
     }
-    
+    .bck{
+        margin-left: 30px;
+    }
+    .title{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .heading{
+        margin-left: 10px;
+        margin-right: 10px;
+        font-size: 20px;
+    }
+    .text{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .button1{
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 120px;
+    }
+    .cards{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .foursquare{
+        margin-left: 50px;
+        
+       
+    }
+    .container_0{
+        
+    }
  }
 
  @media screen and (min-width: 600px) { 
