@@ -409,10 +409,10 @@ hr{
     } 
     .iphone{
         position: relative;
-        top: -130px;
-        width: 400px;
-        height: 500px;
-        transform: scale(0.8);
+        top: -50px;
+        width: 200px;
+        height: 250px;
+        /* transform: scale(0.5); */
     }
     /* .iphonex{
         top: -630px;
@@ -425,6 +425,9 @@ hr{
     } */
     .black{
         height: 700px;
+    }
+    #bio{
+        padding: 50px;
     }
     
  }
