@@ -387,7 +387,9 @@ hr{
 .wave6{
     padding: 0;
 }
-
+a{
+   
+}
 @media screen and (max-width: 600px) {
     .container_0{
      transform: scale(0.7);
@@ -462,6 +464,10 @@ hr{
     .container_0{
         
     }
+    video{
+        width: 300px;
+        height: 300px;
+    }
  }
 
  @media screen and (min-width: 600px) { 
@@ -481,4 +487,13 @@ hr{
     .iphone:hover{
         transform: scale(1.5);
     }
+    video{
+        border-radius: 0;
+        
+        width: 600px;
+        height: 500px;
+    }
 }
+
+
+
