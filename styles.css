@@ -120,9 +120,9 @@ body{
 .button1{
     margin-left: 70px;
     margin-bottom: 300px;
-    background-color: black;
+    background-color: #7D0633;
     color: white;
-    
+    border-width: 0;
 }
 
 
@@ -174,15 +174,15 @@ body{
     margin: 0px;
     margin-right: 15px;
     margin-bottom: 15px;
-    background-color: black;
+    background-color: #7D0633;
     color: white;
     font-size: 50px;
     font-family: sans-serif;
-    border-width: 2px;
+    border-width: 0px;
     border-color: black;
     border-radius: 10px 30px 10px;
     
-   
+    
 }
 
 .card:hover{
@@ -205,6 +205,8 @@ body{
 
 .button2{
     margin-left: 0;
+    background-color: #7D0633;
+    border-width: 0;
 }
 
 .foursquare{
@@ -488,8 +490,7 @@ a{
         transform: scale(1.5);
     }
     video{
-        border-radius: 0;
-        
+        border-radius: 0%;
         width: 600px;
         height: 500px;
     }
