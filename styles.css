@@ -120,12 +120,12 @@ body{
 
 
 .title{
-    margin-top: 120px;
+    margin-top: 200px;
     margin-left: 50px;
     margin-right: 50px;
     padding: 20px;
     margin-bottom: 0;
-    font-family: myFontsbold;
+    font-family: herfonts;
     font-size: 70px;
     
 }
@@ -218,7 +218,7 @@ body{
     border-width: 0px;
     border-color: black;
     border-radius: 10px 30px 10px;
-    font-family: yourFonts;
+    font-family: myFontsbold;
     
 }
 
