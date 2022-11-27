@@ -99,7 +99,7 @@ body{
     margin-top: 50px;
     margin-left: 50px;
     font-size: 25px;
-    font-family: ourFonts 
+    font-family: hisFonts 
     
 }
 .bandw{
@@ -135,7 +135,7 @@ body{
     padding: 20px;
     margin-left: 50px;
     margin-right: 50px;
-    font-family: hisFontsmedium;
+    font-family: ourFonts;
     font-size: 30px;
     
 }
@@ -146,6 +146,7 @@ body{
     margin-right: 50px;
     font-family: ourFonts;
     font-size: 20px;
+    margin-bottom: 100px;
 }
 
 .button1{
@@ -154,7 +155,7 @@ body{
     background-color: #7D0633;
     color: white;
     border-width: 0;
-    font-family: yourFonts;
+    font-family: herFonts;
 }
 .button1:hover{
     background-color: white;
@@ -244,7 +245,7 @@ body{
     margin-left: 0;
     background-color:  #BCEAD5;
     border-width: 0;
-    font-family: yourFonts;
+    font-family: herFonts;
     color: black;
 }
 .button2:hover{
@@ -325,9 +326,7 @@ body{
 .col1{
     padding-left: 250px;
 }
-.col2{
-    padding: 150px;
-}
+
 
 .wave2{
     position: absolute;
@@ -377,6 +376,7 @@ body{
 }
 
 .person{
+    
     border-radius: 100%;
     width: 450px;
     height: 450px;
@@ -389,12 +389,29 @@ body{
 }
 
 .person2{
+    
     border-radius: 100%;
     width: 350px;
     height: 350px;
     border-style:dashed;
     border-width: 10px;
 }
+.profile1{
+    
+    padding: 150px;
+}
+.profile2{
+    
+    
+}
+.pic1{
+    margin-top: 100px;
+
+}
+.pic2{
+    margin-top: 60px;
+}
+
 
 .c{
     transition: transform .9s;
@@ -447,6 +464,14 @@ a{
    
 }
 @media screen and (max-width: 600px) {
+    .Philosophy{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .bck{
+        font-size: 15px;
+
+    }
     .container_0{
      transform: scale(0.7);
      left: -20px;
