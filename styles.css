@@ -135,7 +135,7 @@ body{
     padding: 20px;
     margin-left: 50px;
     margin-right: 50px;
-    font-family: ourFonts;
+    font-family: 'Dosis', sans-serif;
     font-size: 30px;
     
 }
@@ -144,7 +144,7 @@ body{
     padding: 20px;
     margin-left: 50px;
     margin-right: 50px;
-    font-family: ourFonts;
+    font-family: 'Dosis', sans-serif;
     font-size: 20px;
     margin-bottom: 100px;
 }
