@@ -266,6 +266,7 @@ body{
     
     background-size: cover;
     z-index: 0;
+    
 }
 
 .container_0{
@@ -281,11 +282,16 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
     transition: transform .2s;
+    
+    
+    
 
 }
 .container_1 .container_2 .container_3{
     padding: 50px;
     color: black;
+    
+
 }
 
 
@@ -443,6 +449,7 @@ a{
 @media screen and (max-width: 600px) {
     .container_0{
      transform: scale(0.7);
+     left: -20px;
     }
     .person{
         width: 300px;
@@ -461,20 +468,14 @@ a{
     } 
     .iphone{
         position: relative;
-        top: -50px;
-        width: 200px;
-        height: 250px;
-        /* transform: scale(0.5); */
+        top: -10px;
+        width: 250px;
+        height: 320px;
+       
     }
-    /* .iphonex{
-        top: -630px;
-        position: relative;
-        left:-5%;
-        top: -430px;
-        width: 210px;
-        height: 300px;
-        transform: scale(1.2);
-    } */
+    .title{
+        font-size: 30px;
+    }
     .black{
         
     }
@@ -503,8 +504,8 @@ a{
         margin-bottom: 120px;
     }
     .cards{
-        padding-left: 10px;
-        padding-right: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
     }
     .foursquare{
         margin-left: 50px;
