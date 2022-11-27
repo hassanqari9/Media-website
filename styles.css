@@ -243,10 +243,10 @@ body{
 
 .button2{
     margin-left: 0;
-    background-color:  #BCEAD5;
+    background-color:#7D0633;
     border-width: 0;
     font-family: herFonts;
-    color: black;
+    color: white;
 }
 .button2:hover{
     background-color: white;
