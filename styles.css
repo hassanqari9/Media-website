@@ -164,10 +164,10 @@ body{
 }
 
 .iphone{
-    width: 400px;
-    height: 500px;
+    width: 800px;
+    height: 450px;
     margin-top: 200px;
-    margin-bottom: 270px;
+    margin-bottom: 300px;
     transition: transform .2s;
     
 }
@@ -463,6 +463,13 @@ hr{
 a{
    
 }
+@media screen and (max-width: 1250px) {
+    .iphone{
+        width: 650px;
+        height: 400px;
+        transform: scale(0.8);
+    }
+}
 @media screen and (max-width: 600px) {
     .Philosophy{
         padding-left: 40px;
@@ -493,9 +500,10 @@ a{
     } 
     .iphone{
         position: relative;
-        top: -10px;
-        width: 250px;
-        height: 320px;
+        top: -30px;
+        width: 360px;
+        height: 200px;
+        transform: scale(0.9);
        
     }
     .title{
@@ -561,7 +569,7 @@ a{
     }
     
     .iphone:hover{
-        transform: scale(1.5);
+        transform: scale(1.3);
     }
     video{
         border-radius: 0%;
